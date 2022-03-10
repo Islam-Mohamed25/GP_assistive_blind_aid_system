@@ -20,16 +20,16 @@ How we can measure the performance?
 - System robustness: easy to maintain and operate.
 
 The team worked on this:
-1- Islam Mohamed Kamal
-2- Karam Nasser El Dien
-3- Mohamed Fareed Gad
-4- Mohamed Saber El Sayed
-5- Mahmoud Ahmed Ibrahim
-6- Romany Tawfeeq Aziz
+-1- Islam Mohamed Kamal.
+-2- Karam Nasser El Dien.
+-3- Mohamed Fareed Gad.
+-4- Mohamed Saber El Sayed.
+-5- Mahmoud Ahmed Ibrahim.
+-6- Romany Tawfeeq Aziz.
 
 Supervisored by :
-Dr. Mostafa Salah
-Dr. Ahmed Farghal
-Eng. Khaled Abd El Gaber
+-Dr. Mostafa Salah.
+-Dr. Ahmed Farghal.
+-Eng. Khaled Abd El Gaber.
 
-Sohag University
+Faculty of Engineering Sohag University The Department of Electronics and Communication Engineering
